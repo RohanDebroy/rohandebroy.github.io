@@ -8,7 +8,11 @@
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": "rohan_debroy",
+  "linkedin": "rohan-debroy",
+  "medium": null,
+  "dribbble": null
  }
 ]
